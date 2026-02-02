@@ -1,0 +1,7 @@
+{
+  "name": "Kitan Couture",
+  "description": "A luxury couture website featuring a high-end atelier experience, collection management, and an elegant admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
